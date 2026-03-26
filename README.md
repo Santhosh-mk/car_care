@@ -1,16 +1,39 @@
-# car_care_2
+# 🚗 CarCare Mobile Application
 
-A new Flutter project.
+CarCare is a cross-platform mobile application developed using Flutter that helps users efficiently manage their vehicle maintenance and improve overall vehicle safety.
 
-## Getting Started
+## 📌 Features
 
-This project is a starting point for a Flutter application.
+* 🔐 User authentication (Register/Login)
+* 🚘 Vehicle management (Add, Update, Delete vehicles)
+* 🛠️ Maintenance tracking (Service history & mileage tracking)
+* ⏰ Service reminders and notifications
+* 📍 Location-based services (Find nearby garages & fuel stations)
+* 🚨 Emergency assistance feature
+* 🖼️ Vehicle image upload
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter (Frontend)
+* Dart (Application Logic)
+* SQLite (Local Database)
+* Google Maps API & Places API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Purpose
+
+The purpose of this application is to provide a centralized and user-friendly solution for managing vehicle-related tasks, reducing missed maintenance schedules, and improving user safety.
+
+## 🚀 Future Improvements
+
+* Cloud database integration
+* Real-time notifications
+* AI-based maintenance prediction
+* Multi-device synchronization
+
+## 📂 Project Status
+
+Completed – Functional prototype with core features implemented and tested.
+
+## 👨‍💻 Author
+
+Developed as part of an academic project for the HND in Computing.
